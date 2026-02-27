@@ -1,6 +1,6 @@
 # Svelte MCP Power
 
-Official Svelte Model Context Protocol server power for Kiro, providing up-to-date documentation, code analysis, and playground integration for building better Svelte applications with AI assistance.
+Svelte MCP server power for Kiro, providing up-to-date documentation, code analysis, and playground integration for building better Svelte applications with AI assistance.
 
 ## What is this?
 
